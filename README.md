@@ -164,8 +164,9 @@ This project is released under the MIT License, making it freely available for e
 
 This implementation demonstrates real-world networking practices and serves as a comprehensive learning tool for students pursuing networking careers and certifications. The project structure and security policies reflect industry best practices adapted for educational environments.
 
-## Author
-Mohamed Gebril
-Medium blog post: https://medium.com/@moh.ahmed.gebril/building-a-secure-educational-network-from-business-vision-to-technical-reality-2a915a3be7ce
+## Blog Post
+**Medium blog post**: https://medium.com/@moh.ahmed.gebril/building-a-secure-educational-network-from-business-vision-to-technical-reality-2a915a3be7ce
 
+## Author
+**Mohamed Gebril**
 ---
