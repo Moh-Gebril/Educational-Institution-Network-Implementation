@@ -13,6 +13,9 @@ This project implements a complete network infrastructure for an educational ins
 - **Academia Edge**: Main campus network serving teachers, students, and IT support across 3 VLANs  
 - **Remote Edge**: Distance learning network for remote students using 1 VLAN
 
+<img width="1402" height="630" alt="topology" src="https://github.com/user-attachments/assets/2da40940-4f7e-489a-9ce2-bcbdb78e2d06" />
+
+
 **Key Technologies Implemented:**
 - VLAN segmentation for network isolation
 - Router-on-a-stick inter-VLAN routing
